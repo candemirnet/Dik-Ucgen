@@ -1,3 +1,3 @@
 # Dik-Ucgen Odevi
 
-(link)[https://app.patika.dev/cancanli]
+[Patika.dev](https://app.patika.dev/cancanli)
